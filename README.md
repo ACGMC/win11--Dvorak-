@@ -3,8 +3,10 @@
 
 键盘布局:
 
-==',.pyfgcrl/
-==aoeuidhtns-
-==;qjkxbmwvz
+> ',.pyfgcrl/
+> 
+> aoeuidhtns-
+> 
+> ;qjkxbmwvz
 
 qwert 和 Dvorak 互相切换
